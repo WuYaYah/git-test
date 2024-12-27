@@ -1,2 +1,3 @@
 a = "B1143030吳典曄"
 print(a)
+print("Hello guys")
